@@ -1,4 +1,4 @@
-package br.com.dio.collection.List;
+package br.com.dio.collection.list;
 
 import java.util.*;
 

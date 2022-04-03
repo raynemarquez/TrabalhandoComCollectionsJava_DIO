@@ -2,19 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f799542-80e0-4814-8e3b-8e96d3c14ccd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TrabalhandoComCollectionsJava_DIO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploOrdenacaoList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExerciocioProposto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/List.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ListOrdem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SetOrdem.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/set/ExemploOrdenacaoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/set/ExemploSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/set/ExercicioProposto01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/set/ExercicioProposto02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorCor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorCor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorNomeCorIdade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ComparatorNomeCorIdade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploOrdenacaoList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploOrdenacaoList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploOrdenacaoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExemploOrdenacaoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExercicioProposto01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExercicioProposto02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExerciocioProposto1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/ExerciocioProposto1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/Gato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TrabalhandoComCollectionsJava_DIO/br/com/dio/collection/list/Gato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExemploList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploOrdenacaoList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExemploOrdenacaoList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto01_Camila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExercicioProposto01_Camila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto02_Camila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExercicioProposto02_Camila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExercicioProposto2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExerciocioProposto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ExerciocioProposto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/List.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/List.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/collection/List/ListOrdem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/collection/list/ListOrdem.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +57,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ExercicioProposto2">
-    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExemploList" />
+  <component name="RunManager" selected="Application.ExemploOrdenacaoSet">
+    <configuration name="ExemploOrdenacaoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.set.ExemploOrdenacaoSet" />
       <module name="TrabalhandoComCollectionsJava_DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="PATTERN" value="br.com.dio.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExemploOrdenacaoList" />
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.set.ExemploSet" />
       <module name="TrabalhandoComCollectionsJava_DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="PATTERN" value="br.com.dio.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercicioProposto01_Camila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExercicioProposto01_Camila" />
+    <configuration name="ExercicioProposto01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.set.ExercicioProposto01" />
       <module name="TrabalhandoComCollectionsJava_DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="PATTERN" value="br.com.dio.collection.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="ExercicioProposto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExercicioProposto2" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.list.ExercicioProposto2" />
       <module name="TrabalhandoComCollectionsJava_DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="PATTERN" value="br.com.dio.collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="ExerciocioProposto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExerciocioProposto1" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.list.ExerciocioProposto1" />
       <module name="TrabalhandoComCollectionsJava_DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="PATTERN" value="br.com.dio.collection.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploOrdenacaoSet" />
+        <item itemvalue="Application.ExemploSet" />
+        <item itemvalue="Application.ExercicioProposto01" />
         <item itemvalue="Application.ExercicioProposto2" />
         <item itemvalue="Application.ExerciocioProposto1" />
-        <item itemvalue="Application.ExercicioProposto01_Camila" />
-        <item itemvalue="Application.ExemploOrdenacaoList" />
-        <item itemvalue="Application.ExemploList (1)" />
       </list>
     </recent_temporary>
   </component>

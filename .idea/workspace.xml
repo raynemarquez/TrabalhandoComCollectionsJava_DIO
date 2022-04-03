@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f799542-80e0-4814-8e3b-8e96d3c14ccd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TrabalhandoComCollectionsJava_DIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExemploOrdenacaoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExercicioProposto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ExerciocioProposto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/List.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/collection/List/ListOrdem.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27IOI83JU5vWXVq4DZPj6vnxImx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ExercicioProposto2">
+    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExemploList" />
+      <module name="TrabalhandoComCollectionsJava_DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploOrdenacaoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExemploOrdenacaoList" />
+      <module name="TrabalhandoComCollectionsJava_DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioProposto01_Camila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExercicioProposto01_Camila" />
+      <module name="TrabalhandoComCollectionsJava_DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioProposto2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExercicioProposto2" />
+      <module name="TrabalhandoComCollectionsJava_DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciocioProposto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.collection.List.ExerciocioProposto1" />
+      <module name="TrabalhandoComCollectionsJava_DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.collection.List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioProposto2" />
+        <item itemvalue="Application.ExerciocioProposto1" />
+        <item itemvalue="Application.ExercicioProposto01_Camila" />
+        <item itemvalue="Application.ExemploOrdenacaoList" />
+        <item itemvalue="Application.ExemploList (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f799542-80e0-4814-8e3b-8e96d3c14ccd" name="Default Changelist" comment="" />
+      <created>1649004052723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649004052723</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.UnknownFormatConversionException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
